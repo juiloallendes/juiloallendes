@@ -8,9 +8,8 @@ const Jdrash = {
 }
 ```
 You can find me: 
--[Blog]
--[twitter]
--[Intagram]
+-[twitter] (https://www.twitter.com)
+-[Intagram] (https://www.instagram.com)
 -[Youtube]	(https://www.youtube.com/watch?v)
 <!--
 **juiloallendes/juiloallendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
